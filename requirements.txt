@@ -1,0 +1,16 @@
+flask
+requests
+beautifulsoup4
+lxml
+scikit-learn
+pandas
+seaborn
+matplotlib
+tqdm
+flask-cors
+flasgger
+duckduckgo-search
+deep-translator
+colorlog
+plotly
+gunicorn
